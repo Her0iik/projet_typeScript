@@ -18,6 +18,7 @@
   "homepage": "https://github.com/Her0iik/projet_typeScript#readme",
   "dependencies": {},
   "devDependencies": {
+    "tsc": "^1.20150623.0",
     "typescript": "^3.8.3"
   }
 }
