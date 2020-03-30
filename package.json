@@ -1,0 +1,19 @@
+{
+  "name": "exo1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Her0iik/projet_typeScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Her0iik/projet_typeScript/issues"
+  },
+  "homepage": "https://github.com/Her0iik/projet_typeScript#readme"
+}
