@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Her0iik/projet_typeScript/issues"
   },
-  "homepage": "https://github.com/Her0iik/projet_typeScript#readme"
+  "homepage": "https://github.com/Her0iik/projet_typeScript#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
 }
